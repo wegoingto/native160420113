@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "native160420113"
+rootProject.name = "Native160420098"
 include(":app")
+ 

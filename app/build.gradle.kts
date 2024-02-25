@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.native160420113"
+    namespace = "com.ubaya.native160420098"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.native160420113"
-        minSdk = 24
+        applicationId = "com.ubaya.native160420098"
+        minSdk = 30
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
